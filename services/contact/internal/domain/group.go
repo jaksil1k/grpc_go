@@ -1,6 +1,6 @@
 package domain
 
-type group struct {
+type Group struct {
 	ID   int64
 	Name string
 }

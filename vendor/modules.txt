@@ -22,6 +22,9 @@ github.com/jackc/pgx/v5/pgxpool
 ## explicit; go 1.19
 github.com/jackc/puddle/v2
 github.com/jackc/puddle/v2/internal/genstack
+# github.com/julienschmidt/httprouter v1.3.0
+## explicit; go 1.7
+github.com/julienschmidt/httprouter
 # golang.org/x/crypto v0.6.0
 ## explicit; go 1.17
 golang.org/x/crypto/pbkdf2
